@@ -1,6 +1,7 @@
 {
   "name": "next-graphcms-blog",
   "private": true,
+  "proxy": "proxy1.cna.gob.mx:80",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
